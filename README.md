@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 
 
 https://www.youtube.com/watch?v=7W960Q4CdEA
+
+en el componente ordenar me equivoque diciendo  use effect , era useState (nervioso) 
